@@ -1,0 +1,17 @@
+.heading{
+ padding: 10% 0 10% 0;
+ text-align: center;
+}
+h1{
+ font-weight: bolder;
+ font-size: 6rem;
+ font-family: 'Lobster', cursive;
+ text-shadow: 5px 0 #232931;
+}
+h4{
+ text-align: center;
+ font-size: 2rem;
+ font-weight: bold;
+ color: #4ECCA3;
+ font-family: 'Indie Flower', cursive;
+}
